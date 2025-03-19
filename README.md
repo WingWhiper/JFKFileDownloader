@@ -7,8 +7,11 @@ It downloads all the files and creates a zip of them.
 
 TODO: 
 
-*Check if files already been downloaded
+*Check if files already been downloaded 
 
 *Only download new files
 
 *Only make a new zip if prompted to
+
+COMPLETED:
+*Check if files already been downloaded - Thanks @PatrickWaweru
