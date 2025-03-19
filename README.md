@@ -6,6 +6,9 @@ Just run download.py. If you need to download python libs do that or just copy p
 It downloads all the files and creates a zip of them. 
 
 TODO: 
+
 *Check if files already been downloaded
+
 *Only download new files
+
 *Only make a new zip if prompted to
