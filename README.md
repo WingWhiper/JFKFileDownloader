@@ -5,12 +5,10 @@ Just run download.py. If you need to download python libs do that or just copy p
 
 It downloads all the files and creates a zip of them. 
 
-TODO: 
-
-*Only download new files
-
-*Only make a new zip if prompted to
-
 COMPLETED:
 
 *Check if files already been downloaded - Thanks @PatrickWaweru
+
+*Only make a new zip if prompted to
+
+*Only download new files
